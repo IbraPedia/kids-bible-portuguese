@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bíblia para Crianças</string>
+    <string name="app_subtitle">100 Histórias Ilustradas da Bíblia</string>
+    <string name="nav_trilha">Trilha</string>
+    <string name="nav_selos">Selos</string>
+    <string name="nav_painel">Painel</string>
+    <string name="offline_mode_badge">Modo Offline Ativo</string>
+    <string name="tts_unavailable">Voz em Português não disponível neste aparelho.</string>
+</resources>

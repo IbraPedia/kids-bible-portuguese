@@ -1,0 +1,6 @@
+{
+  "name": "Bíblia para Crianças",
+  "description": "Aplicativo infantil ilustrado em aquarela com 100 histórias bíblicas em português, leitura com voz (TTS), quizzes, selos, ofensiva diária e controle dos pais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
